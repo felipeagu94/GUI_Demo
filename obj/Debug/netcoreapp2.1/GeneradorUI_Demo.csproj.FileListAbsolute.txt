@@ -1,0 +1,14 @@
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\bin\Debug\netcoreapp2.1\GeneradorUI_Demo.deps.json
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\bin\Debug\netcoreapp2.1\GeneradorUI_Demo.runtimeconfig.json
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\bin\Debug\netcoreapp2.1\GeneradorUI_Demo.runtimeconfig.dev.json
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\bin\Debug\netcoreapp2.1\GeneradorUI_Demo.dll
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\bin\Debug\netcoreapp2.1\GeneradorUI_Demo.pdb
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.csprojAssemblyReference.cache
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.csproj.CoreCompileInputs.cache
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.RazorAssemblyInfo.cache
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.RazorAssemblyInfo.cs
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.AssemblyInfoInputs.cache
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.AssemblyInfo.cs
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.RazorTargetAssemblyInfo.cache
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.dll
+C:\Software\GeneradorUI_Demo\GeneradorUI_Demo\obj\Debug\netcoreapp2.1\GeneradorUI_Demo.pdb
